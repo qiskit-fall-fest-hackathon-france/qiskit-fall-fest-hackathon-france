@@ -37,7 +37,7 @@ All the participants will be invited to a Discord channel before the Hackathon.
 ## Important notes
   * You are welcome to participate our kick-off event physically on Friday afternoon 15th of October. We will announce the address once it's confirmed.
   * We will hold two Qiskit workshops to help everyone install and get familiar with Qiskit platform. We wil also introduce the basic knowledge about quantum computing in the meanwhile. SO, if you are a beginner in Quantum Computing, don't worry, just attend the Qiskit workshops! The exact date of the workshops will be announced soon. 
-  * The winning teams will obtain cash prizes and the probability to be invited to the Qiskit Global Hackathon!
+  * The winning teams will obtain cash prizes and have the probability to be invited to the Qiskit Global Hackathon!
 ## Contact information
   If you have any questions about the Hackathon, feel free to contact [siyuan.niu@lirmm.fr](mailto:siyuan.niu@lirmm.fr?subject=Qiskit%20Fall%20Fest%20Hackathon) and [adrien.suau@lirmm.fr](mailto:adrien.suau@lirmm.fr?subject=Qiskit%20Fall%20Fest%20Hackathon).
 
