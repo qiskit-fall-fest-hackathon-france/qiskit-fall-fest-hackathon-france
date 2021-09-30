@@ -1,5 +1,5 @@
 # Qiskit Fall Fest Hackathon @ Montpellier, France 2021
-We are extremely excited to hold the Qiskit Fall Fest Hackathon in France! It's open to everyone and completely online due to covid.
+We are extremely excited to hold the Qiskit Fall Fest Hackathon in France! It's open to everyone and completely online.
 
 It's a unique opportunity to get to know about Quantum Computing, coding with Qiskit (a quantum toolkit developed by IBM), and finish some cool projects together!
 
