@@ -35,7 +35,7 @@ All the participants will be invited to a Discord channel before the Hackathon.
   * [Jean-Michel Torres](https://www.linkedin.com/in/jean-michel-torres/?originalSubdomain=fr) - IBM Montpellier, Qiskit Advocate
 
 ## Important notes
-  * You are welcome to participate to our kick-off event physically on Friday afternoon 15th of October, around 5 PM. We will announce the address once it's confirmed.
+  * You are welcome to participate to our kick-off event physically on Friday afternoon 15th of October, at around 5 PM. We will announce the address once it's confirmed.
   * We will hold two Qiskit workshops to help everyone install and get familiar with Qiskit platform. We will also introduce the basic knowledge about quantum computing in the meanwhile. SO, if you are a beginner in Quantum Computing, don't worry, just attend the Qiskit workshops! The exact date of the workshops will be announced soon. 
   * The winning teams will obtain prizes and have the probability to be invited to the Qiskit Global Hackathon!
 ## Contact information
