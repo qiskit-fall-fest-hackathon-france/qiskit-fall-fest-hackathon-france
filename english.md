@@ -25,7 +25,7 @@ Quantum game design, Paper implementation, Quantum Machine Learning, etc.
 
 
 ## Registration
-Please fill in this [GoogleSheet](https://docs.google.com/spreadsheets/d/1JBILvFINfyIwExcNm7RvLcHQ0Lh23I0FzVZtiNx7Gb0/edit?usp=sharing) for registration. You are welcome to register as a team (don't forget to mention it in the sheet!). For individual participant, don't worry, we will make sure that every team has four members!
+Please fill in this [Google Form](https://forms.gle/1CdsoLtT1m7CTqEG6) for registration. You are welcome to register as a team (don't forget to mention it in the sheet!). For individual participant, don't worry, we will make sure that every team has four members!
 
 All the participants will be invited to a Discord channel before the Hackathon.
 

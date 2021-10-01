@@ -33,7 +33,7 @@ Toutes les heures sont sur le fuseau horaire de Paris (CET).
 
 
 ## Inscription
-L'inscription se fait en remplissant ce [GoogleSheet](https://docs.google.com/spreadsheets/d/1JBILvFINfyIwExcNm7RvLcHQ0Lh23I0FzVZtiNx7Gb0/edit?usp=sharing). Les équipes sont composées de 4 participants. Si vous avez déjà une équipe, n'oubliez pas de le mentionner dans le questionnaire! Pour les participants qui n'ont pas d'équipe ou qui ne sont pas assez pour faire une équipe complète, ne vous inquiétez pas: nous créerons une équipe pour vous!
+L'inscription se fait en remplissant ce [Google Form](https://forms.gle/1CdsoLtT1m7CTqEG6). Les équipes sont composées de 4 participants. Si vous avez déjà une équipe, n'oubliez pas de le mentionner dans le questionnaire! Pour les participants qui n'ont pas d'équipe ou qui ne sont pas assez pour faire une équipe complète, ne vous inquiétez pas: nous créerons une équipe pour vous!
 
 Tous les participants seront invités sur le salon Discord créé spécialement pour l'occasion.
 
