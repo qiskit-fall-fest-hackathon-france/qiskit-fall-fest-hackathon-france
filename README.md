@@ -13,6 +13,8 @@ Quantum game design, Paper implementation, Quantum Machine Learning, etc.
 
 
 ## Hackathon Schedule 
+* Note: All the timelines are Paris (CET) time.
+
 | Participant Registration | |
 |:--------------:|:---------------------------------:|
 | Qiskit Workshop 1 | To be confirmed |
