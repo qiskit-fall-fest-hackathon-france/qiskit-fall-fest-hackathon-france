@@ -23,12 +23,13 @@ Toutes les heures sont sur le fuseau horaire de Paris (CET).
 
 | Inscription | |
 |:--------------:|:---------------------------------:|
-| Qiskit Workshop 1 | À confirmer |
-| Qiskit Workshop 2 | À confirmer |
+| Qiskit Workshop 1 | Oct 12, 6PM |
+| Qiskit Workshop 2 | Oct 14, 6PM |
 | Création des équipes et choix du projet | Oct 1 - Oct 15 |
 | Évènement de lancement | Oct 15, 5PM |
 | Hacking | Oct 15 - Oct 22 |
 | Deadline pour la soumission des projets | Oct 23, 0AM |
+| Présentation du projet | Oct 23, 3PM |
 | Annonce des résultats | Oct 27|
 
 
