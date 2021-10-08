@@ -1,5 +1,5 @@
 # Qiskit Fall Fest Hackathon @ Montpellier, France 2021
-We are extremely excited to hold the Qiskit Fall Fest Hackathon in France! It's open to everyone and completely online.
+We are extremely excited to hold the Qiskit Fall Fest Hackathon in France! It's open to everyone in France or French-speaking and completely online.
 
 It's a unique opportunity to get to know about Quantum Computing, coding with Qiskit (a quantum toolkit developed by IBM), and finish some cool projects together!
 
@@ -21,6 +21,7 @@ Quantum game design, Paper implementation, Quantum Machine Learning, etc.
 | Kick-off event | Oct 15, 5PM |
 | Hacking session | Oct 15 - Oct 22 |
 | Project Submission Deadline | Oct 23, 0AM |
+| Project presentation | Oct 23, 3 PM |
 | Result announcement | Oct 27|
 
 
@@ -36,7 +37,7 @@ All the participants will be invited to a Discord channel before the Hackathon.
 
 ## Important notes
   * You are welcome to participate to our kick-off event physically on Friday afternoon 15th of October, at around 5 PM. We will announce the address once it's confirmed.
-  * We will hold two Qiskit workshops to help everyone install and get familiar with Qiskit platform. We will also introduce the basic knowledge about quantum computing in the meanwhile. SO, if you are a beginner in Quantum Computing, don't worry, just attend the Qiskit workshops! The exact date of the workshops will be announced soon. 
+  * We will hold two Qiskit workshops before the hackathon. The first one is to help you install Qiskit and introduce the basis knowledge about quantum computing. It will last two hours. The second one is a one-hour fully Q&A session. You are welcome to ask any questions. The two workshops will be recorded so don't worry that you miss one of them! If you are a beginner in Quantum Computing or not familiar with Qiskit, just attend the Qiskit workshops!
   * The winning teams will obtain prizes and have the probability to be invited to the Qiskit Global Hackathon!
 ## Contact information
   If you have any questions about the Hackathon, feel free to contact [Siyuan Niu](mailto:siyuan.niu@lirmm.fr?subject=Qiskit%20Fall%20Fest%20Hackathon) and [Adrien Suau](mailto:adrien.suau@lirmm.fr?subject=Qiskit%20Fall%20Fest%20Hackathon).
