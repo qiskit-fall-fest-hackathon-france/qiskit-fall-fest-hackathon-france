@@ -2,7 +2,7 @@
 
 # Qiskit Fall Fest Hackathon à Montpellier, France 2021
 
-Nous sommes très heureux d'organiser un Qiskit Fall Fest Hackathon en France! Le hackathon est ouvert à tout le monde, débutants comme experts, et se déroulera en ligne.
+Nous sommes très heureux d'organiser un Qiskit Fall Fest Hackathon en France! Le hackathon est ouvert à tout le monde en France ou parlant Français (étudiants, professeurs, professionels, étudiants internationaux actuellement en France, ...), débutants comme experts, et se déroulera en ligne.
 
 Ce hackathon est une opportunité de commencer à découvrir (ou approfondir) le milieu du calcul quantique en programmant avec Qiskit (une bibliothèque pour le calcul quantique développée par IBM) et de construire des super projets en équipe!
 
@@ -21,16 +21,16 @@ Création d'un jeu inspiré du monde du quantique ou utilisant les ressources d'
 
 Toutes les heures sont sur le fuseau horaire de Paris (CET).
 
-| Inscription | |
-|:--------------:|:---------------------------------:|
-| Qiskit Workshop 1 | Oct 12, 6PM |
-| Qiskit Workshop 2 | Oct 14, 6PM |
-| Création des équipes et choix du projet | Oct 1 - Oct 15 |
-| Évènement de lancement | Oct 15, 5PM |
-| Hacking | Oct 15 - Oct 22 |
-| Deadline pour la soumission des projets | Oct 23, 0AM |
-| Présentation du projet | Oct 23, 3PM |
-| Annonce des résultats | Oct 27|
+| Inscription                             |                 |
+|:---------------------------------------:|:---------------:|
+| Qiskit Workshop 1                       | Oct 12, 6PM     |
+| Qiskit Workshop 2                       | Oct 14, 6PM     |
+| Création des équipes et choix du projet | Oct 1 - Oct 15  |
+| Évènement de lancement                  | Oct 15, 5PM     |
+| Hacking                                 | Oct 15 - Oct 22 |
+| Deadline pour la soumission des projets | Oct 23, 0AM     |
+| Présentation du projet                  | Oct 23, 3PM     |
+| Annonce des résultats                   | Oct 27          |
 
 
 ## Inscription
@@ -45,7 +45,7 @@ Tous les participants seront invités sur le salon Discord créé spécialement 
 
 ## Notes importantes
   * Vous êtes invités à participer à l'évènement de lancement qui se déroulera le Vendredi 15 Octobre après-midi en **présentiel** à Montpellier. Nous annoncerons l'adresse exacte dès que possible.
-  * Nous allons organiser 2 ateliers pour introduire Qiskit, la bibliothèque pour le calcul quantique qui sera utilisée lors de ce hackathon. Ces ateliers vous guideront pour l'installation de Qiskit et introduiront les notions de base du calcul quantique, donc n'hésitez pas à y participer si vous êtes débutant! 
+  * Nous allons organiser 2 ateliers pour introduire Qiskit, la bibliothèque pour le calcul quantique qui sera utilisée lors de ce hackathon. Ces ateliers vous guideront pour l'installation de Qiskit et introduiront les notions de base du calcul quantique, donc n'hésitez pas à y participer si vous êtes débutant! Le premier workshop durera 2 heures et sera dédié à une introduction à Qiskit. Le second workshop sera une session de questions/reponses. Les 2 ateliers seront enregistrés et visionables ultérieurement.
   * Des prix sont prévus pour les équipes gagnantes et seront communiqués prochainement. Les meilleures équipes seront mises en contact avec les équipes d'IBM et auront peut-être la possibilité de participer au Qiskit Global Hackathon, l'évènement annuel organisé par IBM autour de la bibliothèque Qiskit.
 
 ## Contact information
