@@ -1,5 +1,7 @@
 [English version here](./english.md)
 
+[Comment installer Qiskit](./installer-qiskit.md)
+
 # Qiskit Fall Fest Hackathon à Montpellier, France 2021
 
 Nous sommes très heureux d'organiser un Qiskit Fall Fest Hackathon en France! Le hackathon est ouvert à tout le monde en France ou parlant Français (étudiants, professeurs, professionels, étudiants internationaux actuellement en France, ...), débutants comme experts, et se déroulera en ligne.
