@@ -13,6 +13,8 @@ Quantum game design, Paper implementation, Quantum Machine Learning, etc.
 
 
 ## Hackathon Schedule 
+All times are in the Paris time zone (CET).
+
 | Participant Registration | |
 |:--------------:|:---------------------------------:|
 | Qiskit Workshop 1 | Oct 12, 6PM |
@@ -21,7 +23,7 @@ Quantum game design, Paper implementation, Quantum Machine Learning, etc.
 | Kick-off event | Oct 15, 5PM |
 | Hacking session | Oct 15 - Oct 22 |
 | Project Submission Deadline | Oct 23, 0AM |
-| Project presentation | Oct 23, 3 PM |
+| Project presentation | Oct 23, 3PM |
 | Result announcement | Oct 27|
 
 
