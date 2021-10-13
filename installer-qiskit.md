@@ -29,6 +29,6 @@ python -m pip install qiskit jupyter jupyterlab
 
 L'installation peut être vérifiée en lançant la commande
 ```bash
-python -c 'import qiskit; print("Success!")'
+python -c "import qiskit; print('Success')"
 ```
 Si cette commande affiche "Success!" alors l'installation s'est déroulée correctement, sinon n'hésitez pas à venir demander de l'aide sur le canal Discord!
